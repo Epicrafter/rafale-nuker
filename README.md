@@ -6,7 +6,7 @@
 3. A Discord bot token ([How to get a bot token?](#Creating-a-bot))
 
 # Creating-a-bot
-1. Go to your [Discord Developers Applications](https://discord.com/developers/applications)
+1. Go to your [Discord Developers site](https://discord.com/developers/applications), login or sign up
 2. Create a new Application
 3. Go to the "bot" section and click on "Add Bot
 4. Scroll down until you encounter the "Privileged Gateway Intents" sub-section
