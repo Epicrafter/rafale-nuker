@@ -8,15 +8,15 @@
 # Creating-a-bot
 1. Go to your [Discord Developers site](https://discord.com/developers/applications), login or sign up
 2. Create a new Application
-3. Go to the "bot" section and click on "Add Bot
+3. Go to the "bot" section and click on "Add Bot"
 4. Scroll down until you encounter the "Privileged Gateway Intents" sub-section
 5. Copy your **Token** and store it somewhere safe, we will use it later
-6. Check both **"PRESENCE INTENT"** and **"SERVER MEMBERS INTENT"**
+6. Checkmark both **"PRESENCE INTENT"** and **"SERVER MEMBERS INTENT"**
 
 # Setup
 1. If you haven't already done so, download or clone this repository
 2. Open the `settings.json` file either on Notepad or a code editor
-3. Paste your bot `token` and Discord user `ID` [Don't know where to find your Discord user ID?](#Getting-your-ID)
+3. Paste your bot `token` and Discord user `ID` in the correct gaps ([Don't know where to find your Discord user ID?](#Getting-your-ID))
 4. Save the file
 
 # Getting the Bot Started
