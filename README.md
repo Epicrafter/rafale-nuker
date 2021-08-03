@@ -22,3 +22,8 @@
 # Getting the Bot Started
 1. Open the `lauch.bat` file and follow the instructions 
 2. Open the `run.bat` file
+
+# Getting-your-ID and
+1. Open Discord
+2. Enable `Developer Mode` by navigating to Advanced > `Developer` in Discord's settings
+3. On any server, `right-click` on your username and the select `Copy ID`
