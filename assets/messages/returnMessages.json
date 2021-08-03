@@ -1,0 +1,4 @@
+{
+    "not_admin": "I need the ``ADMINISTRATOR`` permission to be able to run this command",
+    "not_owner": "Only specific users can run this command"
+}
